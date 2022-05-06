@@ -1,2 +1,2 @@
 # ML-models
-Collection of jupyter notebooks
+Collection of jupyter notebooks on different ML models
